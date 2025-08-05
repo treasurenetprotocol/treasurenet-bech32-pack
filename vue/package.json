@@ -36,5 +36,8 @@
     "prettier": "^2.2.1",
     "protobufjs": "^6.10.2",
     "sass-loader": "^10.1.1"
+  },
+  "overrides": {
+    "form-data": "^4.0.0"
   }
 }
